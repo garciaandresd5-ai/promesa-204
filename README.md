@@ -14,7 +14,7 @@ The count is split by whether the elected government spent money in court to def
 
 ## What is not here
 
-The source literature (Skeel, the Puerto Rico law review articles, Weaver, Groseclose, Putnam and the rest) lives in Google Drive, not in this repo, because those works are copyrighted.
+The source literature (Skeel, the Puerto Rico law review articles, Weaver, Groseclose, Putnam and the rest) is kept on my Mac in Desktop/PROMESA 204/sources, not in this repo, because those works are copyrighted. SOURCES.md lists every one with its full citation.
 
 ## Keeping it current
 
